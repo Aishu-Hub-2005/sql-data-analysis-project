@@ -60,3 +60,7 @@ sql-data-analysis-project/
 │
 ├── README.md
 └── ecommerce_customer_churn.sql
+
+ 👩‍💻 Author
+**Aishuwarya L**
+B.Tech – Artificial Intelligence & Data Science
