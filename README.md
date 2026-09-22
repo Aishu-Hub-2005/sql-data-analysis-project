@@ -49,9 +49,22 @@ The SQL queries analyze the available customer and transaction data to understan
 - Sales and order patterns
 - Factors related to customer retention
 
- 💡 Business Insights
+ 💡 Key Findings
 
-The analysis helps identify patterns in customer behavior that can be used to understand churn and improve customer retention.
+The analysis was used to identify patterns in customer behavior, purchasing activity, and churn.
+
+Key areas analyzed include:
+
+- Customer churn patterns
+- Customer purchasing behavior
+- Customer activity and engagement
+- Customer segmentation
+- Order and sales patterns
+- Factors associated with customer retention
+
+📌 Business Insights
+
+The analysis can help businesses understand customer behavior and identify areas where customer retention strategies can be improved.
 
  📂 Project Files
 
